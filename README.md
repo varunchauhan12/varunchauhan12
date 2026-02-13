@@ -19,11 +19,3 @@
 
 
 
-
-
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=varunchauhan12&theme=onedark)
-
-
-
