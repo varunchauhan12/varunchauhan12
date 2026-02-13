@@ -14,7 +14,8 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunchauhan12&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=varunchauhan12&show_icons=true&theme=dark)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=varunchauhan12&theme=dark)
 
