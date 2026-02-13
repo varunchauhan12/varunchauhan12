@@ -16,19 +16,19 @@
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=varunchauhan12&show_icons=true&theme=dark)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=varunchauhan12&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunchauhan12&theme=github-dark)
 
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Varunchauhan12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=varunchauhan12&theme=darkhub&no-frame=true&row=1)
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varunchauhan12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repo](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=varunchauhan12&repo=VOLTIX&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varunchauhan12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
